@@ -1,0 +1,90 @@
+//
+//  ContentView.swift
+//  Lumi&Howard
+//
+//  Created by Air on 3/25/25.
+//
+
+import SwiftUI
+
+struct ContentView: View {
+    
+    @State var x: CGFloat = 0
+    @State var y: CGFloat = 0
+    
+    var body: some View {
+        ZStack {
+            Color.green
+                .ignoresSafeArea()
+            VStack {
+                Text("야생의 하워드가 나타났다!")
+                    .font(.title)
+                    .padding()
+                Text("X좌표: \(x)")
+                Text("Y좌표: \(y)")
+                
+                Spacer()
+                
+                Image("howard")
+                    .resizable()
+                    .scaledToFit()
+                    .frame(width: 200)
+                    .offset(x: x, y: y)
+                
+                Spacer()
+                
+                Button(action: {
+                    withAnimation {
+                        y = y - 50
+                    }
+                }) {
+                    Image(systemName: "chevron.up")
+                        .font(.largeTitle)
+                        .frame(width: 80, height: 60)
+                }
+                .buttonStyle(.borderedProminent)
+                .tint(.orange)
+                
+                HStack {
+                    Button(action: {
+                        withAnimation {
+                            x = x - 50
+                        }
+                    }) {
+                        Image(systemName: "chevron.left")
+                            .font(.largeTitle)
+                            .frame(width: 80, height: 60)
+                    }
+                    .buttonStyle(.borderedProminent)
+                    .tint(.orange)
+                    Button(action: {
+                        withAnimation {
+                            y = y + 50
+                        }
+                    }) {
+                        Image(systemName: "chevron.down")
+                            .font(.largeTitle)
+                            .frame(width: 80, height: 60)
+                    }
+                    .buttonStyle(.borderedProminent)
+                    .tint(.orange)
+                    Button(action: {
+                        withAnimation {
+                            x = x + 50
+                        }
+                    }) {
+                        Image(systemName: "chevron.right")
+                            .font(.largeTitle)
+                            .frame(width: 80, height: 60)
+                    }
+                    .buttonStyle(.borderedProminent)
+                    .tint(.orange)
+                }
+            }
+        }
+    }
+}
+
+#Preview {
+    ContentView()
+}

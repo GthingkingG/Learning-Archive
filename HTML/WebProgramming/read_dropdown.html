@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DOM Basic</title>
+
+</head>
+<body>
+    <p>좋아하는 동물을 골라주세요</p> 
+    <select id="dropdown">
+        <option value="dog">개</option>
+        <option value="cat">고양이</option>
+        <option value="tiger">호랑이</option>
+        <option value="giraffee">기린</option>
+    </select>
+    <input type="button" value="선택" onClick="getDropdown()"><br>
+    <script>
+        function getDropdown() {
+            let index = document.getElementById("dropdown").selectedIndex;
+            let selectedstring = document.getElementById("dropdown").options[index].text;
+            alert('My favorite animal is ' + selectedstring);
+        }
+    </script>
+    
+</body>
+</html>
+//value가 아니라 text를 출력하도록 바꿈

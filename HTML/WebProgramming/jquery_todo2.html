@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        div {
+            width: 100px;
+            height: 50px;
+            line-height: 50px; /* 글자를 수직 중앙정렬 합니다. */
+            text-align: center; /* 글자를 수평 중앙정렬 합니다. */
+            color: white;
+            border: none;
+            border-radius: 10px;
+            background-color: purple;
+        }
+    </style>
+</head>
+<body>
+    <div>클릭</div>
+    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+    <script>
+        let colors = ['red', 'green', 'blue'];
+        let currentColor = 0;
+        // div 영역을 클릭할 때마다 색상이 빨간색, 녹색, 파란색, 빨간색, ... 으로 변경
+        $('div').click(function() {
+            currentColor = (currentColor + 1) % colors.length;
+            $('div').css('background-color', colors[currentColor]);
+        });
+    </script>
+</body>
+</html>

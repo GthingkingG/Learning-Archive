@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DOM Basic</title>
+    <script>
+        // 이벤트를 연결합니다.
+        window.onload = function () {
+            // 변수를 선언합니다.
+            let image = document.getElementById('image');
+            
+            // 속성을 변경합니다.
+            image.src = 'http://via.placeholder.com/300x200';
+            image.width = 300;
+            image.height = 200;
+
+            let title = document.getElementById('title');
+            title.style.background = 'brown';
+        };
+    </script>
+</head>
+<body>
+    <h1 id = "title">이미지 속성 변경</h1>
+    <img id="image">
+</body>
+</html>
+//타이틀 변수 추가

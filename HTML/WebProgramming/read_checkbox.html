@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DOM Basic</title>
+
+</head>
+<body>
+    <input type="checkbox" id="myCheckbox">
+    <label> 내용을 이해했습니다 </label><br>
+    <input type="button" id="myButton" value="다음" onclick="getCheckbox()"><br>
+    <script>
+        function getCheckbox() {
+            if(document.getElementById("myCheckbox").checked == true) {
+                alert('내용을 이해하였다고 체크하였습니다.');
+                alert('다음 단계로 넘어갑니다.');
+            }
+            else {
+                alert('내용을 이해하였다고 체크하지 않았습니다.');
+                alert('내용을 이해했습니다에 체크해주세요');
+            }
+        }
+    </script>
+    
+</body>
+</html>
+
+//출력 설명을 추가함

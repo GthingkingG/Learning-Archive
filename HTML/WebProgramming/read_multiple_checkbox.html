@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DOM Basic</title>
+
+</head>
+<body>
+    <input type="checkbox" class="check" value = 100> 
+    <label>100원</label> <br>
+    <input type="checkbox" class="check" value = 300>
+    <label>300원</label> <br>
+    <input type="checkbox" class="check" value = 500> 
+    <label>500원</label> <br>
+    <input type="checkbox" class="check" value = 1000> 
+    <label>1000원</label> <br>
+    <input type="checkbox" class="check" value = 5000>  
+    <label>5000원</label> <br>
+    <input type="checkbox" class="check" value = 10000> 
+    <label>10000원</label> <br>
+    <input type="button" id="myButton" value="계산" onclick="getCheckbox()"><br>
+    <script>
+        function getCheckbox() {
+            let checkboxes = document.getElementsByClassName("check");
+            let sum = 0;
+            for(let i=0; i<checkboxes.length;i++){
+                if(checkboxes[i].checked) {
+                    sum += parseInt(checkboxes[i].value);
+                    alert('체크하신 금액은 ' + checkboxes[i].value + ' 원 입니다.');
+                }
+            }
+            alert('총 금액은 ' + sum + ' 원 입니다.')
+        }
+    </script>
+    
+</body>
+</html>
+
+//각각 가격을 출력하는 코드를 추가하였고, 더 많은 금액을 선택할 수 있도록 바꿈

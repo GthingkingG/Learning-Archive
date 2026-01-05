@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Change the color of a div tag</title>
+    <style>
+        #box {
+            width: 300px;
+            height: 300px;
+            background-color: #fbef85;
+        }
+    </style>
+    <!-- jQuery 라이브러리 추가 -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div id="box"></div>
+    <button id="button">버튼</button>
+    <script>
+        $(document).ready(function() {
+            $('#button').click(function() {
+                const letters = "0123456789ABCDEF";
+                let color = "#";
+                
+                for(let i = 0; i < 6; i++) {
+                    color += letters[Math.floor(Math.random() * 16)];
+                }
+                
+                $('#box').css('background-color', color);
+            });
+        });
+    </script>
+</body>
+</html>

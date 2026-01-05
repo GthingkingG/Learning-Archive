@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DOM Basic</title>
+
+</head>
+<body>
+    <textarea id="input" rows="5" cols="20"></textarea><br>
+    <input type="button" value="텍스트 받아오기" onClick="getTextArea()">
+    <script>
+        function getTextArea() {
+            let text = document.getElementById("input").value.length;
+            alert('텍스트 내용은 ' + text + ' 입니다');
+        }
+    </script>
+    
+</body>
+</html>
+
+//원래 텍스트 추출해서 텍스트를 출력하는 것인데, 텍스트의 길이를 출력하도록 바꿈

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Change the color of a div tag</title>
+    <style>
+        #box {
+            width: 300px;
+            height: 300px;
+            background-color: #fbef85;
+        }
+    </style>
+</head>
+<body>
+    <div id="box"></div>
+    <!-- Listener가 있는 Button 정의하기 -->
+    <button id="button">버튼</button>
+    <script>
+        const letters = "0123456789ABCDEF";
+        let color = "#";
+        let button = document.getElementById('button');
+        button.onclick = function changeColor(){
+            // letters 중에 랜덤으로 6개를 뽑아서 color에 컨캣해서 색 코드를 만들어준다
+            // 만든 색 코드를 id가 box인 태그의 background-color로 지정해준다
+            // color를 다시 "#" 으로 초기화 해준다
+            for(let i = 0; i < 6; i++){
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+            document.getElementById('box').style.backgroundColor = color;
+            color = "#"
+        }
+    </script>
+</body>
+</html>

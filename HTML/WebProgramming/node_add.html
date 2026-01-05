@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Node add and delete</title>
+</head>
+<body>
+    <h3 id = "target">이 제목 아래에 a 태그 노드 추가하기</h3>
+    <input type = "button" value="plus" onClick="addNodeA('https://www.naver.com')">
+    <script>
+        function addNodeA(link){
+            let node = document.createElement("a");
+            let text = document.createElement("h1");
+            node.href = link;
+            node.innerHTML = '<br>' + link;
+            text.innerHTML = '<br>' + "Hello World";
+            document.getElementById("target").appendChild(node);
+            document.getElementById("target").appendChild(text);
+        }
+    </script>
+</body>
+</html>
+<!--텍스트 출력 노드 추가-->

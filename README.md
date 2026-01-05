@@ -27,7 +27,8 @@
 ---
 
 ## 📈 Statistics
-![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GthingkingG&layout=compact&card_width=400&hide_border=true&theme=radical)
+![GitHub Language Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GthingkingG&layout=compact&theme=radical&hide_border=true)
+
 
 ---
 

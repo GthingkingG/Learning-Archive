@@ -27,7 +27,7 @@
 ---
 
 ## 📈 Statistics
-![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=사용자아이디&layout=compact&card_width=400&hide_border=true&theme=radical)
+![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GthingkingG&layout=compact&card_width=400&hide_border=true&theme=radical)
 
 ---
 

@@ -12,13 +12,13 @@
 | :--- | :--- | :--- | :--- |
 | **Swift** | [Concepts](./Swift) | [Exercises](./Swift) | 🟢 Learning |
 | **SwiftUI** | [Concepts](./SwiftUI/LumiHoward) | [Exercises](SwiftUI/Landmarks) | 🟡 Reviewed |
-| **Java** | [Concepts](./Java/concepts) | [Exercises](./Java/exercises) | 🟢 Learning |
-| **Python** | [Basics](./Python/concepts) | [Scripts](./Python/scripts) | 🟡 Reviewed |
-| **HTML** | [Markup](./HTML/concepts) | [Layouts](./HTML/practice) | 🟢 Learning |
-| **Algorithm** | [Note](./Algorithm/theory) | [Problem Solving](./Algorithm/solutions) | 🔥 Daily |
+| **Java** | [Concepts](Java/Java1) | [Exercises](Java/Codetree) | 🟡 Reviewed |
+| **Python** | [Basics](Python/MachineLearning) | [Exercises](Python) | 🟢 Learning |
+| **HTML** | [Markup](HTML) | [Layouts](HTML/WebProgramming) | 🟡 Reviewed |
+| **Algorithm** | [Note](Python/Algorithm) | [Problem Solving](Python/Algorithm) | 🔥 Daily |
 
 ### 2. 🚀 Learning Projects (External Links)
-학습을 위해 진행한 대규모 프로젝트 및 클론 코딩 리스트입니다. (독립된 별도 레포지토리)
+학습을 위해 진행한 대규모 프로젝트 및 클론 코딩 리스트입니다.
 
 | 프로젝트명 | 주요 기술 | 링크 | 비고 |
 | :--- | :--- | :--- | :--- |

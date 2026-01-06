@@ -10,9 +10,11 @@
 
 | Category | Theory & Concepts | Practice & Lab | Status |
 | :--- | :--- | :--- | :--- |
+| **Swift** | [Concepts](./Swift) | [Exercises](./Swift) | 🟢 Learning |
+| **SwiftUI** | [Concepts](./SwiftUI/LumiHoward) | [Exercises](SwiftUI/Landmarks) | 🟡 Reviewed |
 | **Java** | [Concepts](./Java/concepts) | [Exercises](./Java/exercises) | 🟢 Learning |
 | **Python** | [Basics](./Python/concepts) | [Scripts](./Python/scripts) | 🟡 Reviewed |
-| **HTML/CSS** | [Markup](./HTML/concepts) | [Layouts](./HTML/practice) | 🟢 Learning |
+| **HTML** | [Markup](./HTML/concepts) | [Layouts](./HTML/practice) | 🟢 Learning |
 | **Algorithm** | [Note](./Algorithm/theory) | [Problem Solving](./Algorithm/solutions) | 🔥 Daily |
 
 ### 2. 🚀 Learning Projects (External Links)
@@ -20,9 +22,9 @@
 
 | 프로젝트명 | 주요 기술 | 링크 | 비고 |
 | :--- | :--- | :--- | :--- |
-| **Instagram Clone** | `SwiftUI`, `Firebase` | [바로가기](https://github.com/사용자아이디/repo-name) | UI/UX 컴포넌트 중심 학습 |
-| **Weather App** | `Swift`, `OpenWeatherAPI` | [바로가기](https://github.com/사용자아이디/repo-name) | 네트워킹 및 데이터 바인딩 연습 |
-| **Simple To-Do** | `Java`, `Spring Boot` | [바로가기](https://github.com/사용자아이디/repo-name) | REST API 기초 학습 |
+| **Starbucks Clone** | `SwiftUI`, `Swift`, | [바로가기](https://github.com/GthingkingG/UMC_Starbucks) | SwiftUI, API 중심 학습 |
+| **Diray App** | `SwiftUI`, `SwiftData`, `figma` | [바로가기](https://github.com/GthingkingG/Challenge2) | SwiftData적용한 앱 개발 과정 학습 |
+| **Simple Calculator** | `SwiftUI`, `Swift` | [바로가기](https://github.com/GthingkingG/Calculator) | SwiftUI 기본 컴포넌트, Swift 문법 적용 학습 |
 
 ---
 

@@ -47,11 +47,11 @@
 | **GA Reality Composer Pro** | `visionOS` `RealityComposer Pro` | [바로가기](https://github.com/GthingkingG/GA_RealityComposerPro) | `[Academy]` C4 Reality Composer Pro 학습 (visionOS) |
 | **GA Object Tracking** | `visionOS` `Vision` `CreateML` | [바로가기](https://github.com/GthingkingG/GA_ObjectTracking) | `[Academy]` C4 Vision Pro Object Tracking + CreateML 학습 |
 | **SwiftEmbedded v3 (No Battery)** | `Swift` `ESP-IDF` `Tuist` | [바로가기](https://github.com/GthingkingG/SwiftEmbedded-v3-no-battery) | `[Academy]` C6 SwiftEmbedded 시리즈 v3 (가상 배터리 제거) |
+| **ESP32-C6 Indoor Positioning** | `ESP-IDF` `C` `FTM` `ESP-NOW` | [바로가기](https://github.com/GthingkingG/esp32-c6-indoor-positioning) | `[Academy]` C6 Challenge 6 — ESP32-C6 실내 측위 active 프로젝트 |
+| **C6 Experiments** | `ESP-IDF` `Swift` `Python` | [바로가기](https://github.com/GthingkingG/c6-experiments) | `[Academy]` C6 Challenge 6 — ESP32-C6 실내 측위 7단계 진화 실험 아카이브 |
 | **iOS 26 Study** | `SwiftUI` `iOS 26` | [바로가기](https://github.com/GthingkingG/iOS26Study) | `[버전]` iOS 26 신규 API 학습 |
 | **Will I Make It?** | `Flutter` `Supabase` `Vercel` | [바로가기](https://github.com/GthingkingG/will-i-make-it) | `[포트폴리오]` HUFS 셔틀 의사결정 앱 — AI 에이전트 협업 케이스 스터디 |
 | **TimeBox** | `iOS` `SwiftUI` | [바로가기](https://github.com/GthingkingG/TimeBox) | `[포트폴리오]` 타임박싱 기반 일정 관리 iOS 앱 (multi-feature) |
-| **ESP32-C6 Indoor Positioning** | `ESP-IDF` `C` `FTM` `ESP-NOW` | [바로가기](https://github.com/GthingkingG/esp32-c6-indoor-positioning) | `[Academy]` C6 Challenge 6 — ESP32-C6 실내 측위 active 프로젝트 |
-| **C6 Experiments** | `ESP-IDF` `Swift` `Python` | [바로가기](https://github.com/GthingkingG/c6-experiments) | `[Academy]` C6 Challenge 6 — ESP32-C6 실내 측위 7단계 진화 실험 아카이브 |
 
 ### 2. 🧪 CS / 알고리즘 / 언어 학습
 프로젝트로 묶기 애매한 **짧은 단위 학습** 모음 (알고리즘 풀이, 언어 기초, 강의 따라하기 등).

@@ -47,6 +47,7 @@
 | **Lumi & Howard** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Lumi-Howard) | SwiftUI 뷰 구성 |
 | **UMC iOS Workbook** | `SwiftUI` `Tuist` `Alamofire` | [바로가기](https://github.com/GthingkingG/UMC-iOS-Workbook) | UMC 8기 주차별 실습 + 모듈화 |
 | **iOS 26 Study** | `SwiftUI` `iOS 26` | [바로가기](https://github.com/GthingkingG/iOS26Study) | iOS 26 신규 API 학습 |
+| **SwiftUI Landmarks** | `SwiftUI` `iOS` `macOS` `watchOS` | [바로가기](https://github.com/GthingkingG/Landmarks) | Apple 공식 Landmarks 멀티플랫폼 학습 |
 
 #### 🧪 언어/CS 카테고리별 학습 레포
 | 카테고리 | 레포 | 링크 | 비고 |

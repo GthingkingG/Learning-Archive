@@ -8,7 +8,6 @@
 
 | 챕터 | 학습 주제 |
 |------|---------|
-| `Landmarks/` | Multi-platform 앱 (iOS + macOS + watchOS) — 공식 튜토리얼의 메인 |
 | `AnimatingViewsAndTransitions/` | 애니메이션 / 트랜지션 |
 | `ComposingComplexInterfaces/` | 복잡한 인터페이스 조립 |
 | `CreatingAmacOSApp/` | macOS 앱 생성 |
@@ -17,6 +16,8 @@
 | `HandlingUserInput/` | 사용자 입력 처리 |
 | `InterfacingWithUIKit/` | UIKit과의 상호 작용 |
 | `WorkingWithUIControls/` | UIControl 사용 |
+
+> 📌 **Landmarks** (Multi-platform 메인 튜토리얼)는 단독 레포 [GthingkingG/Landmarks](https://github.com/GthingkingG/Landmarks)로 분리 관리.
 
 ## 🛠 빌드
 

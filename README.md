@@ -45,6 +45,12 @@
 | **Simple Calculator** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Calculator) | `[클론]` SwiftUI 컴포넌트 / 상태 관리 |
 | **Lumi & Howard** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Lumi-Howard) | `[클론]` SwiftUI 뷰 구성 |
 | **UMC iOS Workbook** | `SwiftUI` `Tuist` `Alamofire` | [바로가기](https://github.com/GthingkingG/UMC-iOS-Workbook) | `[코호트]` UMC 8기 주차별 실습 + Tuist 모듈화 |
+| **C3 Practice** | `SwiftUI` | [바로가기](https://github.com/GthingkingG/C3_Practice) | `[코호트]` Apple Developer Academy C3 SwiftUI 연습 |
+| **C4 Practice** | `SwiftUI` | [바로가기](https://github.com/GthingkingG/C4-Practice) | `[코호트]` Apple Developer Academy C4 작은 학습 프로젝트 모노레포 |
+| **Sea Creatures** | `SwiftUI` `RealityKit` | [바로가기](https://github.com/GthingkingG/SeaCreatures) | `[코호트]` C4 RealityKit SeaCreatures 학습 |
+| **GA Reality Composer Pro** | `visionOS` `RealityComposer Pro` | [바로가기](https://github.com/GthingkingG/GA_RealityComposerPro) | `[코호트]` C4 Reality Composer Pro 학습 (visionOS) |
+| **GA Object Tracking** | `visionOS` `Vision` `CreateML` | [바로가기](https://github.com/GthingkingG/GA_ObjectTracking) | `[코호트]` C4 Vision Pro Object Tracking + CreateML 학습 |
+| **SwiftEmbedded v3 (No Battery)** | `Swift` `ESP-IDF` `Tuist` | [바로가기](https://github.com/GthingkingG/SwiftEmbedded-v3-no-battery) | `[코호트]` C6 SwiftEmbedded 시리즈 v3 (가상 배터리 제거) |
 | **iOS 26 Study** | `SwiftUI` `iOS 26` | [바로가기](https://github.com/GthingkingG/iOS26Study) | `[버전]` iOS 26 신규 API 학습 |
 | **SwiftUI Landmarks** | `SwiftUI` `iOS` `macOS` `watchOS` | [바로가기](https://github.com/GthingkingG/Landmarks) | `[공식]` Apple Landmarks 멀티플랫폼 |
 | **Algorithm** | `Python` | [바로가기](https://github.com/GthingkingG/algorithm) | `[CS]` Python 알고리즘 풀이 (LCS, Edit Distance 등) |

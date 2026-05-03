@@ -36,21 +36,21 @@
 | **SwiftUI** | [Apple Official Tutorials](./SwiftUI/Apple-Tutorials) · [Credo Masterclass](./SwiftUI/Masterclass-Credo) | 🟡 Reviewed |
 
 ### 2. 🚀 학습용 프로젝트 (Standalone Repos)
-학습을 위해 진행한 본인 단독 레포 리스트입니다. 비고의 `[태그]`로 성격을 구분합니다 — `[클론]`(클론 코딩), `[코호트]`(Apple Developer Academy / UMC 등 정규 커리큘럼), `[버전]`(iOS 신버전 학습), `[공식]`(Apple/Credo 등 공식 튜토리얼), `[CS]`(언어/알고리즘/CS 학습).
+학습/실험을 위해 진행한 본인 단독 레포 리스트입니다. 비고의 `[태그]`로 성격을 구분합니다 — `[클론]`(클론 코딩), `[Academy]`(Apple Developer Academy / UMC 등 정규 커리큘럼), `[버전]`(iOS 신버전 학습), `[공식]`(Apple/Credo 등 공식 튜토리얼), `[CS]`(언어/알고리즘/CS 학습), `[포트폴리오]`(실사용/포트폴리오 프로젝트), `[아카이브]`(실험·발전 흔적 모음).
 
 | 프로젝트명 | 주요 기술 | 링크 | 비고 |
 | :--- | :--- | :--- | :--- |
 | **Starbucks Clone** | `SwiftUI` `Swift` `Moya` | [바로가기](https://github.com/GthingkingG/UMC_Starbucks) | `[클론]` SwiftUI 레이아웃 및 API 연동 (UMC 8기 누적 클론) |
-| **Diary App** | `SwiftUI` `SwiftData` `Figma` | [바로가기](https://github.com/GthingkingG/Challenge2) | `[클론]` SwiftData 데이터 영속성 학습 |
+| **Diary App (Challenge2)** | `SwiftUI` `SwiftData` `Figma` | [바로가기](https://github.com/GthingkingG/Challenge2) | `[Academy]` C2 Challenge 2 — SwiftData 데이터 영속성 학습 |
 | **Simple Calculator** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Calculator) | `[클론]` SwiftUI 컴포넌트 / 상태 관리 |
 | **Lumi & Howard** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Lumi-Howard) | `[클론]` SwiftUI 뷰 구성 |
-| **UMC iOS Workbook** | `SwiftUI` `Tuist` `Alamofire` | [바로가기](https://github.com/GthingkingG/UMC-iOS-Workbook) | `[코호트]` UMC 8기 주차별 실습 + Tuist 모듈화 |
-| **C3 Practice** | `SwiftUI` | [바로가기](https://github.com/GthingkingG/C3_Practice) | `[코호트]` Apple Developer Academy C3 SwiftUI 연습 |
-| **C4 Practice** | `SwiftUI` | [바로가기](https://github.com/GthingkingG/C4-Practice) | `[코호트]` Apple Developer Academy C4 작은 학습 프로젝트 모노레포 |
-| **Sea Creatures** | `SwiftUI` `RealityKit` | [바로가기](https://github.com/GthingkingG/SeaCreatures) | `[코호트]` C4 RealityKit SeaCreatures 학습 |
-| **GA Reality Composer Pro** | `visionOS` `RealityComposer Pro` | [바로가기](https://github.com/GthingkingG/GA_RealityComposerPro) | `[코호트]` C4 Reality Composer Pro 학습 (visionOS) |
-| **GA Object Tracking** | `visionOS` `Vision` `CreateML` | [바로가기](https://github.com/GthingkingG/GA_ObjectTracking) | `[코호트]` C4 Vision Pro Object Tracking + CreateML 학습 |
-| **SwiftEmbedded v3 (No Battery)** | `Swift` `ESP-IDF` `Tuist` | [바로가기](https://github.com/GthingkingG/SwiftEmbedded-v3-no-battery) | `[코호트]` C6 SwiftEmbedded 시리즈 v3 (가상 배터리 제거) |
+| **UMC iOS Workbook** | `SwiftUI` `Tuist` `Alamofire` | [바로가기](https://github.com/GthingkingG/UMC-iOS-Workbook) | `[Academy]` UMC 8기 주차별 실습 + Tuist 모듈화 |
+| **C3 Practice** | `SwiftUI` | [바로가기](https://github.com/GthingkingG/C3_Practice) | `[Academy]` Apple Developer Academy C3 SwiftUI 연습 |
+| **C4 Practice** | `SwiftUI` | [바로가기](https://github.com/GthingkingG/C4-Practice) | `[Academy]` Apple Developer Academy C4 작은 학습 프로젝트 모노레포 |
+| **Sea Creatures** | `SwiftUI` `RealityKit` | [바로가기](https://github.com/GthingkingG/SeaCreatures) | `[Academy]` C4 RealityKit SeaCreatures 학습 |
+| **GA Reality Composer Pro** | `visionOS` `RealityComposer Pro` | [바로가기](https://github.com/GthingkingG/GA_RealityComposerPro) | `[Academy]` C4 Reality Composer Pro 학습 (visionOS) |
+| **GA Object Tracking** | `visionOS` `Vision` `CreateML` | [바로가기](https://github.com/GthingkingG/GA_ObjectTracking) | `[Academy]` C4 Vision Pro Object Tracking + CreateML 학습 |
+| **SwiftEmbedded v3 (No Battery)** | `Swift` `ESP-IDF` `Tuist` | [바로가기](https://github.com/GthingkingG/SwiftEmbedded-v3-no-battery) | `[Academy]` C6 SwiftEmbedded 시리즈 v3 (가상 배터리 제거) |
 | **iOS 26 Study** | `SwiftUI` `iOS 26` | [바로가기](https://github.com/GthingkingG/iOS26Study) | `[버전]` iOS 26 신규 API 학습 |
 | **SwiftUI Landmarks** | `SwiftUI` `iOS` `macOS` `watchOS` | [바로가기](https://github.com/GthingkingG/Landmarks) | `[공식]` Apple Landmarks 멀티플랫폼 |
 | **Algorithm** | `Python` | [바로가기](https://github.com/GthingkingG/algorithm) | `[CS]` Python 알고리즘 풀이 (LCS, Edit Distance 등) |
@@ -62,16 +62,10 @@
 | **Machine Learning** | `Python` `Jupyter` | [바로가기](https://github.com/GthingkingG/Machine-Learning) | `[CS]` Code it Machine Learning 강의 학습 |
 | **Web Programming** | `HTML` `JS` `jQuery` | [바로가기](https://github.com/GthingkingG/WebProgramming) | `[CS]` HTML/JS/jQuery 웹 프로그래밍 |
 | **GitHub Pages** | `HTML` | [바로가기](https://github.com/GthingkingG/GthingkingG.github.io) | `[CS]` 개인 GitHub Pages |
-
-### 3. 🎯 실제 프로젝트 (Production / Portfolio)
-학습 단계를 넘어 사용 목적이 명확한 본인 단독 프로젝트 / 포트폴리오 작품입니다.
-
-| 프로젝트명 | 주요 기술 | 링크 | 비고 |
-| :--- | :--- | :--- | :--- |
-| **Will I Make It?** | `Flutter` `Supabase` `Vercel` | [바로가기](https://github.com/GthingkingG/will-i-make-it) | HUFS 셔틀 의사결정 앱. AI 에이전트 협업 포트폴리오 케이스 스터디 |
-| **TimeBox** | `iOS` `SwiftUI` | [바로가기](https://github.com/GthingkingG/TimeBox) | 타임박싱 기반 일정 관리 iOS 앱 (multi-feature, active 개발) |
-| **ESP32-C6 Indoor Positioning** | `ESP-IDF` `C` `FTM` `ESP-NOW` | [바로가기](https://github.com/GthingkingG/esp32-c6-indoor-positioning) | ESP32-C6 실내 측위 active 프로젝트 |
-| **C6 Experiments** | `ESP-IDF` `Swift` `Python` | [바로가기](https://github.com/GthingkingG/c6-experiments) | ESP32-C6 실내 측위 7단계 진화 실험 아카이브 (FTM/ESP-NOW/저전력) |
+| **Will I Make It?** | `Flutter` `Supabase` `Vercel` | [바로가기](https://github.com/GthingkingG/will-i-make-it) | `[포트폴리오]` HUFS 셔틀 의사결정 앱 — AI 에이전트 협업 케이스 스터디 |
+| **TimeBox** | `iOS` `SwiftUI` | [바로가기](https://github.com/GthingkingG/TimeBox) | `[포트폴리오]` 타임박싱 기반 일정 관리 iOS 앱 (multi-feature) |
+| **ESP32-C6 Indoor Positioning** | `ESP-IDF` `C` `FTM` `ESP-NOW` | [바로가기](https://github.com/GthingkingG/esp32-c6-indoor-positioning) | `[포트폴리오]` ESP32-C6 실내 측위 active 프로젝트 |
+| **C6 Experiments** | `ESP-IDF` `Swift` `Python` | [바로가기](https://github.com/GthingkingG/c6-experiments) | `[아카이브]` ESP32-C6 실내 측위 7단계 진화 실험 아카이브 (FTM/ESP-NOW/저전력) |
 
 ---
 

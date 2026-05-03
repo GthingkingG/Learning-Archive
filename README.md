@@ -26,20 +26,16 @@
 
 ## 🗂️ Repository Structure
 
-본 레포는 **대시보드** 역할입니다. 학습 자료는 카테고리별로 외부 자료를 보관하고, 본인 학습 결과물은 단독 레포로 분리하여 링크합니다.
+본 레포는 **대시보드** 역할입니다. 학습/실험/포트폴리오는 단독 프로젝트로, 짧은 단위 CS·언어 학습은 별도로 구분합니다.
 
-### 1. 📚 외부 학습 자료 (Internal Folders)
-본 저장소 안에 보관된 외부 강의/공식 튜토리얼 자료입니다.
-
-| Category | 자료 | Status |
-| :--- | :--- | :--- |
-| **SwiftUI** | [Apple Official Tutorials](./SwiftUI/Apple-Tutorials) · [Credo Masterclass](./SwiftUI/Masterclass-Credo) | 🟡 Reviewed |
-
-### 2. 🚀 학습용 프로젝트 (Standalone Repos)
-학습/실험을 위해 진행한 본인 단독 레포 리스트입니다. 비고의 `[태그]`로 성격을 구분합니다 — `[클론]`(클론 코딩), `[Academy]`(Apple Developer Academy / UMC 등 정규 커리큘럼), `[버전]`(iOS 신버전 학습), `[공식]`(Apple/Credo 등 공식 튜토리얼), `[CS]`(언어/알고리즘/CS 학습), `[포트폴리오]`(실사용/포트폴리오 프로젝트), `[아카이브]`(실험·발전 흔적 모음).
+### 1. 🚀 학습용 프로젝트
+앱·튜토리얼·포트폴리오 등 의미 있는 프로젝트 단위 학습. 비고의 `[태그]`로 성격을 구분합니다 — `[클론]`(클론 코딩), `[Academy]`(Apple Developer Academy / UMC 등 정규 커리큘럼), `[버전]`(iOS 신버전 학습), `[공식]`(Apple 등 공식 튜토리얼), `[강의]`(외부 유료 강의), `[포트폴리오]`(실사용/포트폴리오 프로젝트), `[아카이브]`(실험·발전 흔적 모음).
 
 | 프로젝트명 | 주요 기술 | 링크 | 비고 |
 | :--- | :--- | :--- | :--- |
+| **Apple Official Tutorials** | `SwiftUI` `iOS` `macOS` `watchOS` | [./SwiftUI/Apple-Tutorials](./SwiftUI/Apple-Tutorials) | `[공식]` Apple SwiftUI 공식 튜토리얼 8 챕터 (내부 폴더) |
+| **Credo Masterclass** | `SwiftUI` `Swift` | [./SwiftUI/Masterclass-Credo](./SwiftUI/Masterclass-Credo) | `[강의]` Credo Academy SwiftUI Masterclass (Robert Petras) — 4 챕터 (내부 폴더) |
+| **SwiftUI Landmarks** | `SwiftUI` `iOS` `macOS` `watchOS` | [바로가기](https://github.com/GthingkingG/Landmarks) | `[공식]` Apple Landmarks 멀티플랫폼 |
 | **Starbucks Clone** | `SwiftUI` `Swift` `Moya` | [바로가기](https://github.com/GthingkingG/UMC_Starbucks) | `[클론]` SwiftUI 레이아웃 및 API 연동 (UMC 8기 누적 클론) |
 | **Diary App (Challenge2)** | `SwiftUI` `SwiftData` `Figma` | [바로가기](https://github.com/GthingkingG/Challenge2) | `[Academy]` C2 Challenge 2 — SwiftData 데이터 영속성 학습 |
 | **Simple Calculator** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Calculator) | `[클론]` SwiftUI 컴포넌트 / 상태 관리 |
@@ -52,20 +48,25 @@
 | **GA Object Tracking** | `visionOS` `Vision` `CreateML` | [바로가기](https://github.com/GthingkingG/GA_ObjectTracking) | `[Academy]` C4 Vision Pro Object Tracking + CreateML 학습 |
 | **SwiftEmbedded v3 (No Battery)** | `Swift` `ESP-IDF` `Tuist` | [바로가기](https://github.com/GthingkingG/SwiftEmbedded-v3-no-battery) | `[Academy]` C6 SwiftEmbedded 시리즈 v3 (가상 배터리 제거) |
 | **iOS 26 Study** | `SwiftUI` `iOS 26` | [바로가기](https://github.com/GthingkingG/iOS26Study) | `[버전]` iOS 26 신규 API 학습 |
-| **SwiftUI Landmarks** | `SwiftUI` `iOS` `macOS` `watchOS` | [바로가기](https://github.com/GthingkingG/Landmarks) | `[공식]` Apple Landmarks 멀티플랫폼 |
-| **Algorithm** | `Python` | [바로가기](https://github.com/GthingkingG/algorithm) | `[CS]` Python 알고리즘 풀이 (LCS, Edit Distance 등) |
-| **Java1** | `Java` | [바로가기](https://github.com/GthingkingG/Java1) | `[CS]` Java 기초 학습 |
-| **CodeTree Java** | `Java` | [바로가기](https://github.com/GthingkingG/CodeTree_Java) | `[CS]` CodeTree Java 문제 풀이 |
-| **OOP MyApp** | `Java` | [바로가기](https://github.com/GthingkingG/OOP_MyApp) | `[CS]` 객체지향 학습 (Editor, MyBox, MyPoint) |
-| **CodeTree Swift** | `Swift` | [바로가기](https://github.com/GthingkingG/CodeTree_Swift) | `[CS]` CodeTree Swift 문제 풀이 (날짜별) |
-| **Python Playground** | `Python` | [바로가기](https://github.com/GthingkingG/python-playground) | `[CS]` Python 기초/실습 |
-| **Machine Learning** | `Python` `Jupyter` | [바로가기](https://github.com/GthingkingG/Machine-Learning) | `[CS]` Code it Machine Learning 강의 학습 |
-| **Web Programming** | `HTML` `JS` `jQuery` | [바로가기](https://github.com/GthingkingG/WebProgramming) | `[CS]` HTML/JS/jQuery 웹 프로그래밍 |
-| **GitHub Pages** | `HTML` | [바로가기](https://github.com/GthingkingG/GthingkingG.github.io) | `[CS]` 개인 GitHub Pages |
 | **Will I Make It?** | `Flutter` `Supabase` `Vercel` | [바로가기](https://github.com/GthingkingG/will-i-make-it) | `[포트폴리오]` HUFS 셔틀 의사결정 앱 — AI 에이전트 협업 케이스 스터디 |
 | **TimeBox** | `iOS` `SwiftUI` | [바로가기](https://github.com/GthingkingG/TimeBox) | `[포트폴리오]` 타임박싱 기반 일정 관리 iOS 앱 (multi-feature) |
 | **ESP32-C6 Indoor Positioning** | `ESP-IDF` `C` `FTM` `ESP-NOW` | [바로가기](https://github.com/GthingkingG/esp32-c6-indoor-positioning) | `[포트폴리오]` ESP32-C6 실내 측위 active 프로젝트 |
 | **C6 Experiments** | `ESP-IDF` `Swift` `Python` | [바로가기](https://github.com/GthingkingG/c6-experiments) | `[아카이브]` ESP32-C6 실내 측위 7단계 진화 실험 아카이브 (FTM/ESP-NOW/저전력) |
+
+### 2. 🧪 CS / 알고리즘 / 언어 학습
+프로젝트로 묶기 애매한 **짧은 단위 학습** 모음 (알고리즘 풀이, 언어 기초, 강의 따라하기 등).
+
+| 카테고리 | 레포 | 링크 | 비고 |
+| :--- | :--- | :--- | :--- |
+| **Algorithm** | algorithm | [바로가기](https://github.com/GthingkingG/algorithm) | Python 알고리즘 풀이 (LCS, Edit Distance 등) |
+| **Java** | Java1 | [바로가기](https://github.com/GthingkingG/Java1) | Java 기초 학습 |
+| **Java** | CodeTree_Java | [바로가기](https://github.com/GthingkingG/CodeTree_Java) | CodeTree Java 문제 풀이 |
+| **Java/OOP** | OOP_MyApp | [바로가기](https://github.com/GthingkingG/OOP_MyApp) | 객체지향 학습 (Editor, MyBox, MyPoint) |
+| **Swift** | CodeTree_Swift | [바로가기](https://github.com/GthingkingG/CodeTree_Swift) | CodeTree Swift 문제 풀이 (날짜별) |
+| **Python** | python-playground | [바로가기](https://github.com/GthingkingG/python-playground) | Python 기초/실습 |
+| **Python/ML** | Machine-Learning | [바로가기](https://github.com/GthingkingG/Machine-Learning) | Code it Machine Learning 강의 학습 |
+| **HTML/Web** | WebProgramming | [바로가기](https://github.com/GthingkingG/WebProgramming) | HTML/JS/jQuery 웹 프로그래밍 |
+| **HTML** | GthingkingG.github.io | [바로가기](https://github.com/GthingkingG/GthingkingG.github.io) | 개인 GitHub Pages |
 
 ---
 

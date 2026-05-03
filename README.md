@@ -57,6 +57,16 @@
 | **Web Programming** | `HTML` `JS` `jQuery` | [바로가기](https://github.com/GthingkingG/WebProgramming) | `[CS]` HTML/JS/jQuery 웹 프로그래밍 |
 | **GitHub Pages** | `HTML` | [바로가기](https://github.com/GthingkingG/GthingkingG.github.io) | `[CS]` 개인 GitHub Pages |
 
+### 3. 🎯 실제 프로젝트 (Production / Portfolio)
+학습 단계를 넘어 사용 목적이 명확한 본인 단독 프로젝트 / 포트폴리오 작품입니다.
+
+| 프로젝트명 | 주요 기술 | 링크 | 비고 |
+| :--- | :--- | :--- | :--- |
+| **Will I Make It?** | `Flutter` `Supabase` `Vercel` | [바로가기](https://github.com/GthingkingG/will-i-make-it) | HUFS 셔틀 의사결정 앱. AI 에이전트 협업 포트폴리오 케이스 스터디 |
+| **TimeBox** | `iOS` `SwiftUI` | [바로가기](https://github.com/GthingkingG/TimeBox) | 타임박싱 기반 일정 관리 iOS 앱 (multi-feature, active 개발) |
+| **ESP32-C6 Indoor Positioning** | `ESP-IDF` `C` `FTM` `ESP-NOW` | [바로가기](https://github.com/GthingkingG/esp32-c6-indoor-positioning) | ESP32-C6 실내 측위 active 프로젝트 |
+| **C6 Experiments** | `ESP-IDF` `Swift` `Python` | [바로가기](https://github.com/GthingkingG/c6-experiments) | ESP32-C6 실내 측위 7단계 진화 실험 아카이브 (FTM/ESP-NOW/저전력) |
+
 ---
 
 ## 📈 Statistics

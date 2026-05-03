@@ -29,7 +29,7 @@
 본 레포는 **대시보드** 역할입니다. 학습/실험/포트폴리오는 단독 프로젝트로, 짧은 단위 CS·언어 학습은 별도로 구분합니다.
 
 ### 1. 🚀 학습용 프로젝트
-앱·튜토리얼·포트폴리오 등 의미 있는 프로젝트 단위 학습. 비고의 `[태그]`로 성격을 구분합니다 — `[클론]`(클론 코딩), `[Academy]`(Apple Developer Academy / UMC 등 정규 커리큘럼), `[버전]`(iOS 신버전 학습), `[공식]`(Apple 등 공식 튜토리얼), `[강의]`(외부 유료 강의), `[포트폴리오]`(실사용/포트폴리오 프로젝트), `[아카이브]`(실험·발전 흔적 모음).
+앱·튜토리얼·포트폴리오 등 의미 있는 프로젝트 단위 학습. 비고의 `[태그]`로 성격을 구분합니다 — `[클론]`(클론 코딩), `[Academy]`(Apple Developer Academy / UMC 등 정규 커리큘럼), `[버전]`(iOS 신버전 학습), `[공식]`(Apple 등 공식 튜토리얼), `[강의]`(외부 유료 강의), `[포트폴리오]`(실사용/포트폴리오 프로젝트).
 
 | 프로젝트명 | 주요 기술 | 링크 | 비고 |
 | :--- | :--- | :--- | :--- |
@@ -50,8 +50,8 @@
 | **iOS 26 Study** | `SwiftUI` `iOS 26` | [바로가기](https://github.com/GthingkingG/iOS26Study) | `[버전]` iOS 26 신규 API 학습 |
 | **Will I Make It?** | `Flutter` `Supabase` `Vercel` | [바로가기](https://github.com/GthingkingG/will-i-make-it) | `[포트폴리오]` HUFS 셔틀 의사결정 앱 — AI 에이전트 협업 케이스 스터디 |
 | **TimeBox** | `iOS` `SwiftUI` | [바로가기](https://github.com/GthingkingG/TimeBox) | `[포트폴리오]` 타임박싱 기반 일정 관리 iOS 앱 (multi-feature) |
-| **ESP32-C6 Indoor Positioning** | `ESP-IDF` `C` `FTM` `ESP-NOW` | [바로가기](https://github.com/GthingkingG/esp32-c6-indoor-positioning) | `[포트폴리오]` ESP32-C6 실내 측위 active 프로젝트 |
-| **C6 Experiments** | `ESP-IDF` `Swift` `Python` | [바로가기](https://github.com/GthingkingG/c6-experiments) | `[아카이브]` ESP32-C6 실내 측위 7단계 진화 실험 아카이브 (FTM/ESP-NOW/저전력) |
+| **ESP32-C6 Indoor Positioning** | `ESP-IDF` `C` `FTM` `ESP-NOW` | [바로가기](https://github.com/GthingkingG/esp32-c6-indoor-positioning) | `[Academy]` C6 Challenge 6 — ESP32-C6 실내 측위 active 프로젝트 |
+| **C6 Experiments** | `ESP-IDF` `Swift` `Python` | [바로가기](https://github.com/GthingkingG/c6-experiments) | `[Academy]` C6 Challenge 6 — ESP32-C6 실내 측위 7단계 진화 실험 아카이브 |
 
 ### 2. 🧪 CS / 알고리즘 / 언어 학습
 프로젝트로 묶기 애매한 **짧은 단위 학습** 모음 (알고리즘 풀이, 언어 기초, 강의 따라하기 등).

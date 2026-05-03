@@ -35,32 +35,27 @@
 | :--- | :--- | :--- |
 | **SwiftUI** | [Apple Official Tutorials](./SwiftUI/Apple-Tutorials) · [Credo Masterclass](./SwiftUI/Masterclass-Credo) | 🟡 Reviewed |
 
-### 2. 🚀 단독 학습 레포 (Standalone Repos)
-학습을 위해 진행한 본인 단독 레포 리스트입니다.
+### 2. 🚀 학습용 프로젝트 (Standalone Repos)
+학습을 위해 진행한 본인 단독 레포 리스트입니다. 비고의 `[태그]`로 성격을 구분합니다 — `[클론]`(클론 코딩), `[코호트]`(Apple Developer Academy / UMC 등 정규 커리큘럼), `[버전]`(iOS 신버전 학습), `[공식]`(Apple/Credo 등 공식 튜토리얼), `[CS]`(언어/알고리즘/CS 학습).
 
-#### 🎯 큰 프로젝트 / 클론 코딩
 | 프로젝트명 | 주요 기술 | 링크 | 비고 |
 | :--- | :--- | :--- | :--- |
-| **Starbucks Clone** | `SwiftUI` `Swift` `Moya` | [바로가기](https://github.com/GthingkingG/UMC_Starbucks) | SwiftUI 레이아웃 및 API 연동 |
-| **Diary App** | `SwiftUI` `SwiftData` `Figma` | [바로가기](https://github.com/GthingkingG/Challenge2) | SwiftData 데이터 영속성 |
-| **Simple Calculator** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Calculator) | SwiftUI 컴포넌트 / 상태 관리 |
-| **Lumi & Howard** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Lumi-Howard) | SwiftUI 뷰 구성 |
-| **UMC iOS Workbook** | `SwiftUI` `Tuist` `Alamofire` | [바로가기](https://github.com/GthingkingG/UMC-iOS-Workbook) | UMC 8기 주차별 실습 + 모듈화 |
-| **iOS 26 Study** | `SwiftUI` `iOS 26` | [바로가기](https://github.com/GthingkingG/iOS26Study) | iOS 26 신규 API 학습 |
-| **SwiftUI Landmarks** | `SwiftUI` `iOS` `macOS` `watchOS` | [바로가기](https://github.com/GthingkingG/Landmarks) | Apple 공식 Landmarks 멀티플랫폼 학습 |
-
-#### 🧪 언어/CS 카테고리별 학습 레포
-| 카테고리 | 레포 | 링크 | 비고 |
-| :--- | :--- | :--- | :--- |
-| **Algorithm** | algorithm | [바로가기](https://github.com/GthingkingG/algorithm) | Python 알고리즘 풀이 (LCS, Edit Distance 등) |
-| **Java** | Java1 | [바로가기](https://github.com/GthingkingG/Java1) | Java 기초 학습 |
-| **Java** | CodeTree_Java | [바로가기](https://github.com/GthingkingG/CodeTree_Java) | CodeTree Java 문제 풀이 |
-| **Java/OOP** | OOP_MyApp | [바로가기](https://github.com/GthingkingG/OOP_MyApp) | 객체지향 학습 (Editor, MyBox, MyPoint) |
-| **Swift** | CodeTree_Swift | [바로가기](https://github.com/GthingkingG/CodeTree_Swift) | CodeTree Swift 문제 풀이 (날짜별) |
-| **Python** | python-playground | [바로가기](https://github.com/GthingkingG/python-playground) | Python 기초/실습 |
-| **Python/ML** | Machine-Learning | [바로가기](https://github.com/GthingkingG/Machine-Learning) | Code it Machine Learning 강의 학습 |
-| **HTML/Web** | WebProgramming | [바로가기](https://github.com/GthingkingG/WebProgramming) | HTML/JS/jQuery 웹 프로그래밍 |
-| **HTML** | GthingkingG.github.io | [바로가기](https://github.com/GthingkingG/GthingkingG.github.io) | 개인 GitHub Pages |
+| **Starbucks Clone** | `SwiftUI` `Swift` `Moya` | [바로가기](https://github.com/GthingkingG/UMC_Starbucks) | `[클론]` SwiftUI 레이아웃 및 API 연동 (UMC 8기 누적 클론) |
+| **Diary App** | `SwiftUI` `SwiftData` `Figma` | [바로가기](https://github.com/GthingkingG/Challenge2) | `[클론]` SwiftData 데이터 영속성 학습 |
+| **Simple Calculator** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Calculator) | `[클론]` SwiftUI 컴포넌트 / 상태 관리 |
+| **Lumi & Howard** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Lumi-Howard) | `[클론]` SwiftUI 뷰 구성 |
+| **UMC iOS Workbook** | `SwiftUI` `Tuist` `Alamofire` | [바로가기](https://github.com/GthingkingG/UMC-iOS-Workbook) | `[코호트]` UMC 8기 주차별 실습 + Tuist 모듈화 |
+| **iOS 26 Study** | `SwiftUI` `iOS 26` | [바로가기](https://github.com/GthingkingG/iOS26Study) | `[버전]` iOS 26 신규 API 학습 |
+| **SwiftUI Landmarks** | `SwiftUI` `iOS` `macOS` `watchOS` | [바로가기](https://github.com/GthingkingG/Landmarks) | `[공식]` Apple Landmarks 멀티플랫폼 |
+| **Algorithm** | `Python` | [바로가기](https://github.com/GthingkingG/algorithm) | `[CS]` Python 알고리즘 풀이 (LCS, Edit Distance 등) |
+| **Java1** | `Java` | [바로가기](https://github.com/GthingkingG/Java1) | `[CS]` Java 기초 학습 |
+| **CodeTree Java** | `Java` | [바로가기](https://github.com/GthingkingG/CodeTree_Java) | `[CS]` CodeTree Java 문제 풀이 |
+| **OOP MyApp** | `Java` | [바로가기](https://github.com/GthingkingG/OOP_MyApp) | `[CS]` 객체지향 학습 (Editor, MyBox, MyPoint) |
+| **CodeTree Swift** | `Swift` | [바로가기](https://github.com/GthingkingG/CodeTree_Swift) | `[CS]` CodeTree Swift 문제 풀이 (날짜별) |
+| **Python Playground** | `Python` | [바로가기](https://github.com/GthingkingG/python-playground) | `[CS]` Python 기초/실습 |
+| **Machine Learning** | `Python` `Jupyter` | [바로가기](https://github.com/GthingkingG/Machine-Learning) | `[CS]` Code it Machine Learning 강의 학습 |
+| **Web Programming** | `HTML` `JS` `jQuery` | [바로가기](https://github.com/GthingkingG/WebProgramming) | `[CS]` HTML/JS/jQuery 웹 프로그래밍 |
+| **GitHub Pages** | `HTML` | [바로가기](https://github.com/GthingkingG/GthingkingG.github.io) | `[CS]` 개인 GitHub Pages |
 
 ---
 

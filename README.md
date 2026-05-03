@@ -26,30 +26,40 @@
 
 ## 🗂️ Repository Structure
 
-### 1. 💡 Language & CS Study (Internal)
-본 저장소 내부에서 관리되는 기초 학습 및 이론 정리 내역입니다. 각 항목을 클릭하면 해당 폴더로 이동합니다.
+본 레포는 **대시보드** 역할입니다. 학습 자료는 카테고리별로 외부 자료를 보관하고, 본인 학습 결과물은 단독 레포로 분리하여 링크합니다.
 
-| Category | Theory & Concepts | Practice & Lab | Status |
-| :--- | :--- | :--- | :--- |
-| **Swift** | [Concepts](./Swift) | [Exercises](./Swift) | 🟢 Learning |
-| **SwiftUI** | [Apple Tutorials](./SwiftUI/Apple-Tutorials) · [Credo Masterclass](./SwiftUI/Masterclass-Credo) | [Landmarks](./SwiftUI/Apple-Tutorials/Landmarks) | 🟡 Reviewed |
-| **Java** | [Concepts](Java/Java1) | [Exercises](Java/Codetree) | 🟡 Reviewed |
-| **Python** | [Basics](Python/MachineLearning) | [Exercises](Python) | 🟢 Learning |
-| **HTML** | [Markup](HTML) | [Layouts](HTML/WebProgramming) | 🟡 Reviewed |
-| **Algorithm** | [Note](Python/Algorithm) | [Problem Solving](Python/Algorithm) | 🔥 Daily |
+### 1. 📚 외부 학습 자료 (Internal Folders)
+본 저장소 안에 보관된 외부 강의/공식 튜토리얼 자료입니다.
 
-### 2. 🚀 Learning Projects (External Links)
-학습을 위해 진행한 대규모 프로젝트 및 클론 코딩 리스트입니다.
+| Category | 자료 | Status |
+| :--- | :--- | :--- |
+| **SwiftUI** | [Apple Official Tutorials](./SwiftUI/Apple-Tutorials) · [Credo Masterclass](./SwiftUI/Masterclass-Credo) | 🟡 Reviewed |
 
+### 2. 🚀 단독 학습 레포 (Standalone Repos)
+학습을 위해 진행한 본인 단독 레포 리스트입니다.
+
+#### 🎯 큰 프로젝트 / 클론 코딩
 | 프로젝트명 | 주요 기술 | 링크 | 비고 |
 | :--- | :--- | :--- | :--- |
-| **Starbucks Clone** | `SwiftUI` `Swift` `Moya` | [바로가기](https://github.com/GthingkingG/UMC_Starbucks) | SwiftUI 레이아웃 및 API 연동 학습 |
-| **Diary App** | `SwiftUI` `SwiftData` `Figma` | [바로가기](https://github.com/GthingkingG/Challenge2) | SwiftData를 활용한 데이터 영속성 학습 |
-| **Simple Calculator** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Calculator) | SwiftUI 기본 컴포넌트 및 상태 관리 학습 |
-| **Lumi & Howard** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Lumi-Howard) | SwiftUI 뷰 구성 학습 |
-| **Python Playground** | `Python` | [바로가기](https://github.com/GthingkingG/python-playground) | Python 기초/실습 정리 |
+| **Starbucks Clone** | `SwiftUI` `Swift` `Moya` | [바로가기](https://github.com/GthingkingG/UMC_Starbucks) | SwiftUI 레이아웃 및 API 연동 |
+| **Diary App** | `SwiftUI` `SwiftData` `Figma` | [바로가기](https://github.com/GthingkingG/Challenge2) | SwiftData 데이터 영속성 |
+| **Simple Calculator** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Calculator) | SwiftUI 컴포넌트 / 상태 관리 |
+| **Lumi & Howard** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Lumi-Howard) | SwiftUI 뷰 구성 |
 | **UMC iOS Workbook** | `SwiftUI` `Tuist` `Alamofire` | [바로가기](https://github.com/GthingkingG/UMC-iOS-Workbook) | UMC 8기 주차별 실습 + 모듈화 |
 | **iOS 26 Study** | `SwiftUI` `iOS 26` | [바로가기](https://github.com/GthingkingG/iOS26Study) | iOS 26 신규 API 학습 |
+
+#### 🧪 언어/CS 카테고리별 학습 레포
+| 카테고리 | 레포 | 링크 | 비고 |
+| :--- | :--- | :--- | :--- |
+| **Algorithm** | algorithm | [바로가기](https://github.com/GthingkingG/algorithm) | Python 알고리즘 풀이 (LCS, Edit Distance 등) |
+| **Java** | Java1 | [바로가기](https://github.com/GthingkingG/Java1) | Java 기초 학습 |
+| **Java** | CodeTree_Java | [바로가기](https://github.com/GthingkingG/CodeTree_Java) | CodeTree Java 문제 풀이 |
+| **Java/OOP** | OOP_MyApp | [바로가기](https://github.com/GthingkingG/OOP_MyApp) | 객체지향 학습 (Editor, MyBox, MyPoint) |
+| **Swift** | CodeTree_Swift | [바로가기](https://github.com/GthingkingG/CodeTree_Swift) | CodeTree Swift 문제 풀이 (날짜별) |
+| **Python** | python-playground | [바로가기](https://github.com/GthingkingG/python-playground) | Python 기초/실습 |
+| **Python/ML** | Machine-Learning | [바로가기](https://github.com/GthingkingG/Machine-Learning) | Code it Machine Learning 강의 학습 |
+| **HTML/Web** | WebProgramming | [바로가기](https://github.com/GthingkingG/WebProgramming) | HTML/JS/jQuery 웹 프로그래밍 |
+| **HTML** | GthingkingG.github.io | [바로가기](https://github.com/GthingkingG/GthingkingG.github.io) | 개인 GitHub Pages |
 
 ---
 

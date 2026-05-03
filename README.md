@@ -32,7 +32,7 @@
 | Category | Theory & Concepts | Practice & Lab | Status |
 | :--- | :--- | :--- | :--- |
 | **Swift** | [Concepts](./Swift) | [Exercises](./Swift) | 🟢 Learning |
-| **SwiftUI** | [Concepts](./SwiftUI/LumiHoward) | [Exercises](SwiftUI/Landmarks) | 🟡 Reviewed |
+| **SwiftUI** | [Apple Tutorials](./SwiftUI/Apple-Tutorials) · [Credo Masterclass](./SwiftUI/Masterclass-Credo) | [Landmarks](./SwiftUI/Apple-Tutorials/Landmarks) | 🟡 Reviewed |
 | **Java** | [Concepts](Java/Java1) | [Exercises](Java/Codetree) | 🟡 Reviewed |
 | **Python** | [Basics](Python/MachineLearning) | [Exercises](Python) | 🟢 Learning |
 | **HTML** | [Markup](HTML) | [Layouts](HTML/WebProgramming) | 🟡 Reviewed |
@@ -43,9 +43,13 @@
 
 | 프로젝트명 | 주요 기술 | 링크 | 비고 |
 | :--- | :--- | :--- | :--- |
-| **Starbucks Clone** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/UMC_Starbucks) | SwiftUI 레이아웃 및 API 연동 학습 |
+| **Starbucks Clone** | `SwiftUI` `Swift` `Moya` | [바로가기](https://github.com/GthingkingG/UMC_Starbucks) | SwiftUI 레이아웃 및 API 연동 학습 |
 | **Diary App** | `SwiftUI` `SwiftData` `Figma` | [바로가기](https://github.com/GthingkingG/Challenge2) | SwiftData를 활용한 데이터 영속성 학습 |
 | **Simple Calculator** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Calculator) | SwiftUI 기본 컴포넌트 및 상태 관리 학습 |
+| **Lumi & Howard** | `SwiftUI` `Swift` | [바로가기](https://github.com/GthingkingG/Lumi-Howard) | SwiftUI 뷰 구성 학습 |
+| **Python Playground** | `Python` | [바로가기](https://github.com/GthingkingG/python-playground) | Python 기초/실습 정리 |
+| **UMC iOS Workbook** | `SwiftUI` `Tuist` `Alamofire` | [바로가기](https://github.com/GthingkingG/UMC-iOS-Workbook) | UMC 8기 주차별 실습 + 모듈화 |
+| **iOS 26 Study** | `SwiftUI` `iOS 26` | [바로가기](https://github.com/GthingkingG/iOS26Study) | iOS 26 신규 API 학습 |
 
 ---
 
@@ -61,4 +65,4 @@
 - **Consistency**: 작은 기록이라도 꾸준히 업데이트하여 성장의 궤적을 남깁니다.
 
 ---
-최종 업데이트: 2026-04-13
+최종 업데이트: 2026-05-03
